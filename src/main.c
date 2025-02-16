@@ -1,3 +1,7 @@
+/*
+Nome dupla: Gabriel Oliveira de Jesus e Elder Nunes Gonçalves
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
